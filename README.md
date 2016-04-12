@@ -5,3 +5,5 @@ The project extract data from Yelp's academic dataset and map this data onto a r
 Paraview, a multi-platform data analysis and visualization platform is used to combine Montreal's map and Yelp's data.
 
 Parser.py format JSON data into .csv files that are need for Paraview to extract the required information and build the timelapse.
+
+A short video of the final project can be found at https://www.youtube.com/watch?v=ntzOUO1wzuM.
